@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(blue, lightblue) ;
+    text-align:center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+    
+h1{
+    color:black;
+}
+p{
+    color:black;
+}
+.img2{
+    width: 400px;
+    border: 3px blue dashed;
+    border-radius: 20px;
+}
